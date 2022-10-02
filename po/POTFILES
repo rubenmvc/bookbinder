@@ -1,0 +1,6 @@
+data/org.rubenmvc.bookbinder.desktop.in
+data/org.rubenmvc.bookbinder.appdata.xml.in
+data/org.rubenmvc.bookbinder.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="bookbinder">
+	<schema id="org.rubenmvc.bookbinder" path="/org/rubenmvc/bookbinder/">
+	</schema>
+</schemalist>
